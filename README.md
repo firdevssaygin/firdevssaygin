@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://medium.com/@firdevssaygin](https://medium.com/@firdevssaygin)
 
 - 📫 How to reach me **firdevssaygin7@gmail.com**
 
